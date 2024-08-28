@@ -1,7 +1,3 @@
-Here’s a template for a `README.md` file for your landing page project, w3corp:
-
----
-
 # w3corp
 
 Welcome to **w3corp**—a cutting-edge landing page project that combines interactive features and innovative technology. Developed by Gaurav, Krissh, and Shivam, w3corp is designed to provide a comprehensive digital experience with a focus on Web3 and Solidity integration.
